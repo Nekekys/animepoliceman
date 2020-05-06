@@ -118,7 +118,7 @@ h3{
     cursor:default;
 }
 
-@media (max-width: 1200px){
+@media screen and (max-width: 1200px){
     .head_link{
         display: none;
     }
@@ -352,7 +352,7 @@ h3{
     z-index: 5;
 }
 
-@media (max-width: 992px){
+@media screen and (max-width: 992px){
     .waxom_img_left{
         margin-top: 58px;
     }
@@ -364,7 +364,7 @@ h3{
     }
 }
 
-@media (max-width: 767px){
+@media screen and (max-width: 767px){
     .waxom_img_left{
         margin-top: 38px;
     }
@@ -379,7 +379,7 @@ h3{
     }
 }
 
-@media (max-width: 575px){
+@media screen and (max-width: 575px){
     .waxom_img_left{
         display: none;
     }
@@ -391,7 +391,7 @@ h3{
     }
 }
 
-@media (max-width: 438px){
+@media screen and (max-width: 438px){
     .our_galer_item{
         width: auto;
     }
@@ -762,12 +762,12 @@ h3{
 
 /******************************************/
 
-@media (max-width: 886px){
+@media screen and (max-width: 886px){
     .end{
         padding: 50px 0;
     }
 }
-@media (max-width: 400px){
+@media screen and (max-width: 400px){
     .end{
         padding: 20px 0;
     }
@@ -782,7 +782,7 @@ h3{
     }
 }
 
-@media (max-width: 720px){
+@media screen and (max-width: 720px){
     .gardient_2>div>div>h4{
         font-size: 24px;
     }
@@ -791,7 +791,7 @@ h3{
     }
 }
 
-@media (max-width: 450px){
+@media screen and (max-width: 450px){
     .head_promo h2{
         font-size: 24px!important;
     }
